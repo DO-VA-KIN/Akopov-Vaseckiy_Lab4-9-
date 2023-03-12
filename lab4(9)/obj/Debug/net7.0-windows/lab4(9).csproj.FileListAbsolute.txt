@@ -1,0 +1,17 @@
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\bin\Debug\net7.0-windows\lab4(9).exe
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\bin\Debug\net7.0-windows\lab4(9).deps.json
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\bin\Debug\net7.0-windows\lab4(9).runtimeconfig.json
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\bin\Debug\net7.0-windows\lab4(9).dll
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\bin\Debug\net7.0-windows\lab4(9).pdb
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).csproj.AssemblyReference.cache
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4_9_.Form1.resources
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).csproj.GenerateResource.cache
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).AssemblyInfoInputs.cache
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).AssemblyInfo.cs
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).csproj.CoreCompileInputs.cache
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).dll
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\refint\lab4(9).dll
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).pdb
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\lab4(9).genruntimeconfig.cache
+B:\Projects\university\Wpf\Akopov\lab4(9)\lab4(9)\obj\Debug\net7.0-windows\ref\lab4(9).dll
